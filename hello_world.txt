@@ -1,1 +1,2 @@
 some text to it
+more text to it to test the git commit with no -m 
