@@ -4,3 +4,6 @@ more text to remember
 testing commiting message inspired by helldivers patch notes
 more testing to commit studies
 more testing to commit studies, best practices
+trying to undestand addition in github
+test
+test (3 additions?)
