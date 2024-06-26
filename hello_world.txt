@@ -3,3 +3,4 @@ more text to it to test the git commit with no -m
 more text to remember
 testing commiting message inspired by helldivers patch notes
 more testing to commit studies
+more testing to commit studies, best practices
